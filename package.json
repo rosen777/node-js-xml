@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "express-xml-bodyparser": "^0.3.0",
+    "morgan": "^1.10.0",
+    "soap": "^0.43.0"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.mjs"
+  },
+  "engines": {
+    "node": "16.14.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
